@@ -12,7 +12,7 @@ Ans : ...................................................
       ...................................................
 
 
-Q 3 : What is the characterstics of an algorithms ? explain any three property which should must be in it ? 
+Q 3 : What is the characteristics of an algorithms ? explain any three property which should must be in it ? 
 Ans : ...................................................
       ...................................................
       ...................................................
@@ -20,15 +20,15 @@ Ans : ...................................................
 
 Q 4 : How can we compare between two algorithms written for the same problem?
 
-Ans : The complexity of an algorithm is a technique that is used to categorise that how efficient our algorithm
+Ans : The complexity of an algorithm is a technique that is used to categories that how efficient our algorithm
 as compare to other algorithms. It is focuses that the input size of the data set require how much time to execute 
-and how much space need to store. So it to be a good idea to categorise our algorithms according to how much time
+and how much space need to store. So it to be a good idea to categories our algorithms according to how much time
 or space they take up.
-Complexity of Time : require time to run an algorith is called complexity of time.
-Complexity of Space : require space to store an algorith is called complexity of space.
+Complexity of Time : require time to run an algorithm is called complexity of time.
+Complexity of Space : require space to store an algorithm is called complexity of space.
 
 
-Periority               Time                        A1                          A2                    PICK
+Priority               Time                        A1                          A2                    PICK
 
 First                   Average Case                Go To High                 Go To Low               A2
 
@@ -56,20 +56,20 @@ Ans : ..........................................................................
 
 Q 6 : How can we represent our complexity OR we calculate our complexity
 
-Ans : mostly there are three types of complexity stages we use to represent our code complrxity which is worth case senario , 
+Ans : mostly there are three types of complexity stages we use to represent our code complexity which is worth case senario , 
 average case senario and best case senario 
 in worth case : ........................................................................... max time
 in average case : ......................................................................... average time
 in best case senario : .................................................................... less time
 
-and to represent these all senarios we use mathematical way which is called asmpotatic notations.
+and to represent these all senarios we use mathematical way which is called asymptotic notations.
 
 And for calculation, Generally we use functions which could be any type like 
 constant functions : O(1)
 linear : .................................
 quadratic : ......................................
-logrithms functions : ................................
-Exponancial : 
+logarithms functions : ................................
+Exponential : 
 etc.
 
 
@@ -99,13 +99,13 @@ Ans : growth of function .......................................................
 
 increaseing orders list : 
 
-constant => logirithms => linear => Quadratic => exponicial => factorial => odral polynomial
+constant => logirithms => linear => Quadratic => exponential => factorial => odral polynomial
 
 O(1) => O(log n) => O(n) => O( n * log n ) => O(n*n) => O( n^2 log n ) => O(n^3) .......... => O( k ^ n ) => O( n ! ) ..............
 
-* : exponicial show high growth as compare to polynomial functions
+* : exponential show high growth as compare to polynomial functions
 
-K ^ n  >>>>>>>>>>>>  n ^ k        // here k is contant 
+K ^ n  >>>>>>>>>>>>  n ^ k        // here k is constant 
 
 
 
