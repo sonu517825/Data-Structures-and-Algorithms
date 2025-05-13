@@ -1,0 +1,1 @@
+// This is a new TypeScript file in the hash-table directory. 
