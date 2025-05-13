@@ -1,0 +1,1 @@
+// Get minimum element from stack 

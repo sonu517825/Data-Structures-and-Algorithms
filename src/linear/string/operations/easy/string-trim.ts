@@ -1,0 +1,1 @@
+// Trimming spaces from string (left, right, full) 

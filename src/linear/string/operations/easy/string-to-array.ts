@@ -1,0 +1,1 @@
+// Convert string to array of characters 

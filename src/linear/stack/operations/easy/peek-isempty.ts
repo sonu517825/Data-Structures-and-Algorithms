@@ -1,0 +1,1 @@
+// Peek, isEmpty, isFull operations 

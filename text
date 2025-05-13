@@ -1,0 +1,18 @@
+📦 List of Composite/Derived Data Structures
+
+Data Structure	Built on	Use Case / Description
+Matrix	Array	2D data, grids, images
+Hash Table / Map	Array + Hashing	Fast key-value lookup
+Set	Hash Table / BST	Unique elements
+Deque	Doubly Linked List	Push/pop both ends
+Priority Queue	Heap	Min/Max value extraction
+Trie (Prefix Tree)	Tree + Array/Map	Fast prefix matching
+Segment Tree	Array + Tree Logic	Range queries in log(n)
+Fenwick Tree (BIT)	Array + Math Ops	Efficient prefix sums
+Disjoint Set (DSU)	Array + Path Compression	Union-Find problems
+Bloom Filter	Bit Array + Hash	Probabilistic membership
+Suffix Tree/Array	String + Tree/Array	Fast substring search
+Interval Tree	BST + Range Data	Range overlap queries
+Sparse Table	Array + DP	Static range query problems
+Graph (Adj List)	Array + List/Map	Node-edge modeling
+Adjacency Matrix	2D Matrix	Dense graph modeling

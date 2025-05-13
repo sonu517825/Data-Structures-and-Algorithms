@@ -1,0 +1,1 @@
+// Ternary Search (divide and conquer) 

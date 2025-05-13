@@ -1,0 +1,1 @@
+// Finding Majority Element in an array 

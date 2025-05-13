@@ -1,0 +1,1 @@
+// Singly linked stack type 

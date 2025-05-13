@@ -1,0 +1,1 @@
+// Memory representation of arrays (contiguous memory, cache locality) 

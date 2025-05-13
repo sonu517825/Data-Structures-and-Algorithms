@@ -1,0 +1,1 @@
+// Manacher's Algorithm for finding longest palindrome 
